@@ -3,7 +3,7 @@
   "version": "2.6",
   "slug": "rfreceiver",
   "description": "433 MHz RF Receiver",
-  "url": "https://github.com/psallandre/hassio-addons",
+  "url": "https://github.com/avlisiur78/hassio-addons",
   "arch": ["aarch64", "amd64", "armhf", "armv7", "i386"],
   "startup": "application",
   "boot": "auto",
